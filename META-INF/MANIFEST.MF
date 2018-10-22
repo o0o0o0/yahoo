@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Name: YAH00
+Created-By: CLARISHA(www.ketiksms.com)
+MIDlet-Vendor: C--2010
+MIDlet-1: YAH00, Y.png, ClarishaOcta
+MIDlet-Version: 1.0
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Delete-Confirm: pilih yes untuk berlanganan content berbayar.
